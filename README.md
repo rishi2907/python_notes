@@ -9,8 +9,10 @@ what is f string , use
 
 practical.learnpython.dev
 
-vs code for maximum productivity 
+vs code for maximum productivity
+
 python -m <module-name>
+
 where -m represent run next comand as module 
   
 snake_case in python 
